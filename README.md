@@ -1,6 +1,9 @@
 # A World Top 10 Battlesnake in Python
 
-This is a program that interacts with the Battlesnake API to compete in the online programming game/tournament 'Battlesnake', a game similar to snake, but with multiple snakes competing to squeeze the othere out of space, and where every snake is controlled by a program rather than by a human. This snake, Shodan, is hosted on Replit, and is ranked in the global top 10, as well as achieving an elite ranking in the global leaderboards and qualifying to compete for Europe and the UK, reaching the quarter finals of the Caster Cup 2022.
+This is a program that interacts with the Battlesnake API to compete in the online programming game/tournament 'Battlesnake', a game similar to snake, but with multiple snakes competing to squeeze the othere out of space, and where every snake is controlled by a program rather than by a human. This snake, Shodan, is hosted on Replit, and is ranked in the global top 10, as well as achieving an elite ranking in the global leaderboards and qualifying to compete for Europe and the UK, reaching the quarter finals of the Caster Cup 2022.  
+
+Link to achievements- https://play.battlesnake.com/u/harrykavna/#achievements  
+Link to snake on the website (where you can see stats and games)- https://play.battlesnake.com/u/harrykavna/shodan/
 
 ## How it works
 
